@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Kuliner Nusantara</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+    <string name="content_rendang">Rendang atau randang adalah masakan daging bercita rasa pedas yang menggunakan campuran dari berbagai bumbu dan rempah-rempah. Masakan ini dihasilkan dari proses memasak yang dipanaskan berulang-ulang dengan santan kelapa. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga kering dan berwarna hitam pekat. Dalam suhu ruangan, rendang dapat bertahan hingga berminggu-minggu. Rendang yang dimasak dalam waktu yang lebih singkat dan santannya belum mengering disebut kalio, berwarna coklat terang keemasan.
+    </string>
+    <string name="content_keraktelor">Kerak telur adalah makanan asli daerah Jakarta (Betawi), dengan bahan-bahan beras ketan putih, telur ayam, ebi (udang kering yang diasinkan) yang disangrai kering ditambah bawang merah goreng, lalu diberi bumbu yang dihaluskan berupa kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam dan gula pasir.</string>
+    <string name="content_lumpia">
+        Lumpia terdiri dari lembaran tipis tepung gandum yang dijadikan sebagai pembungkus isian yang umumnya adalah rebung, telur, sayuran segar, daging, atau makanan laut.
+        Di Indonesia, lumpia dikenal sebagai jajanan khas Semarang dengan tata cara pembuatan dan bahan-bahan yang telah disesuaikan dengan tradisi setempat.
+    </string>
+    <string name="ayam">
+        Betutu adalah lauk yang terbuat dari ayam atau bebek yang utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Betutu ini telah dikenal di seluruh kabupaten di Bali. Salah satu produsen betutu adalah desa Melinggih, kecamatam payangan kabupaten Gianyar. Ayam betutu juga merupakan makanan khas Gilimanuk.
+    </string>
+    <string name="gudeg">
+       Gudeg adalah makanan khas Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat masakan ini. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan. Gudeg dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tempe, tahu dan sambal goreng krecek.
+    </string>
+    <string name="pempek">
+        Pempek atau empek-empek adalah makanan khas Palembang yang terbuat dari daging ikan yang digiling lembut dan tepung kanji (secara salah kaprah sering disebut sebagai "tepung sagu"), serta beberapa komposisi lain seperti telur, bawang putih yang dihaluskan, penyedap rasa dan garam. Sebenarnya sulit untuk mengatakan bahwa penganan pempek pusatnya adalah di Palembang karena hampir semua daerah di Sumatera Selatan memproduksinya.
+    </string>
+    <string name="papeda">Papeda adalah makanan berupa bubur sagu khas Maluku dan Papua yang biasanya disajikan dengan ikan tongkol atau mubara yang dibumbui dengan kunyit. Papeda berwarna putih dan bertekstur lengket menyerupai lem dengan rasa yang tawar. Papeda merupakan makanan yang kaya serat, rendah kolesterol dan cukup bernutrisi.</string>
+    <string name="otak">
+        Otak-otak adalah makanan yang terbuat dari daging tenggiri cincang yang dibungkus dengan daun pisang, dipanggang, dan disajikan dengan kuah asam pedas. Penganan ini populer di kawasan sekitar Selat Malaka dan Selat Karimata, seperti Kepulauan Riau, Singapura, dan Malaysia, tetapi tersebar luas pula di berbagai kota di Sumatra dan Jawa. Di Malaysia, Muar terkenal dengan otak-otaknya. Di Indonesia sendiri otak-otak banyak dijumpai di Tanjungpinang dan Palembang.
+    </string>
+    <string name="gado">
+        Gado-gado adalah salah satu makanan yang berasal dari Indonesia yang berupa sayur-sayuran yang direbus dan dicampur jadi satu, dengan bumbu kacang atau saus dari kacang tanah dan yang dihaluskan disertai irisan telur dan pada umumnya banyak yang menambahkan kentang rebus yang sudah dihaluskan untuk saus gado gado kentang rebus dimasak bersamaan dengan bumbu kacang kemudian di atasnya ditaburi bawang goreng. Sedikit emping goreng atau kerupuk (ada juga yang memakai kerupuk udang) juga ditambahkan.
+
+
+    </string>
+    <string name="Sop_Buntut">
+        Sop buntut adalah salah satu sop daging yang lezat. Makanan khas nusantara ini kebanyakan ditemukan di Jawa Barat dan terdiri dari irisan ekor sapi yang digoreng atau dibakar dalam kuah yang jernih.
+
+Hidangan ini umumnya dibumbui dengan bawang merah, bawang putih, lada, pala dan cengkeh.  Selain ekor sapi, sop buntut ini juga terdiri dari beberapa sayuran lezat yang dapat ditambahkan seperti kentang rebus, wortel, tomat, seledri, daun bawang dan bawang merah. Untuk benar-benar mendapatkan rasa yang segar, peras sedikit jeruk nipis atau lemon di atas sup buntut.
+    </string>
+</resources>
+
